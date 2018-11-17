@@ -1,0 +1,3 @@
+/home/ivan/ENGG1320/build/CMakeFiles/rebuild_cache.dir
+/home/ivan/ENGG1320/build/CMakeFiles/ENGG1320.dir
+/home/ivan/ENGG1320/build/CMakeFiles/edit_cache.dir
